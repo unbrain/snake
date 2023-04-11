@@ -553,6 +553,5 @@ h2 {
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
-  margin-bottom: 20px;
 }
 </style>
